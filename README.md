@@ -14,7 +14,7 @@
 * [Conclusion](#conclusion)
 
 ## Tableau Dashboard
-Link:
+Link:https://public.tableau.com/views/Cosmetics_Dashboard/Intro?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Motivation:
 As someone who regularly uses cosmetics to improve my mental health.I wanted to better undertand the potential health risks associated with common cosmetic ingredients. This dashboard was driven by a desire to identify harmful chemicals found in everyday cosmetic products and to make more informed choices as a consumer. By uncovering which ingredients are potentially dangerous and which companies use them, I hope to raise awareness of carcinogens found in cosmetics as well as pointing out the lack of research of chemicals within cosmetic products.
@@ -54,4 +54,4 @@ https://www.fda.gov/cosmetics/cosmetic-products-ingredients/cosmetic-ingredients
 
 
 ## Conclusion
-The data visualization highlighs critical insights into thecosmetic industry's us of chemicals with a specific focus on carcinogenic risks.The analysis shows that while titanium is the most frequently used chemical, it is not classified as a carcinogen. Additionally, cosmetic consumers face difficulty linking ingredients to carcinogens, indicating a lock of transparaency in labeling or public awareness. Despite these challenges, the data suggests that many cosmetic companies are making efforts to provide safer products. However, there remains a significant gap in research on the chemicals used in cosmetics, underscoring the need for continued investigation and improved regulatory oversight to ensure consumer safety. 
+The data visualization highlighs critical insights into the cosmetic industry's use of chemicals with a specific focus on carcinogenic risks.The analysis shows that while Titanium Dioxide is the most frequently used chemical, it is not classified as a carcinogen. Additionally, cosmetic consumers face difficulty linking ingredients to carcinogens, indicating a lock of transparaency in labeling or public awareness. Despite these challenges, the data suggests that many cosmetic companies are making efforts to provide safer products. However, there remains a significant gap in research on the chemicals used in cosmetics, underscoring the need for continued investigation and improved regulatory oversight to ensure consumer safety. 
