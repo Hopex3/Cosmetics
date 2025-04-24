@@ -14,7 +14,7 @@
 * [Conclusion](#conclusion)
 
 ## Tableau Dashboard
-Link: https://public.tableau.com/views/HumanMigration_16511842170780/Story2?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+Link:
 
 ## Motivation:
 As someone who regularly uses cosmetics to improve my mental health.I wanted to better undertand the potential health risks associated with common cosmetic ingredients. This dashboard was driven by a desire to identify harmful chemicals found in everyday cosmetic products and to make more informed choices as a consumer. By uncovering which ingredients are potentially dangerous and which companies use them, I hope to raise awareness of carcinogens found in cosmetics as well as pointing out the lack of research of chemicals within cosmetic products.
